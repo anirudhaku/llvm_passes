@@ -1,0 +1,12 @@
+Debug+Asserts/*
+*.d
+*.o
+*.so
+*.bc
+*.ll
+*.s
+
+
+.*.swp
+.session.vim
+.session.vim.lock
